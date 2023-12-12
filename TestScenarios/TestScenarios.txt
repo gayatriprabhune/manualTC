@@ -1,0 +1,44 @@
+1) To test the functionality of leave management tab.
+2)To test the functionality of leave application master.
+3)To test leave application master heading.
+4)To test company name functionality.
+5)To test the functionality of employee name.
+6)To test from date option by its format.
+7)To test total days functionality.
+8)To test to date  option by its format and accepting only numaric.
+9)To test leave type functionality by its dropdown and typing.
+10)To test the functionality of leave reason tab how many charectors it takes.
+11)To test the functionality of sanction by tab if enables at end of the application or not and 
+12)To test leave status tab ,what it display after application filled properly.
+13)To test the functionality of NEW button.
+14)To test the functionality of View All button.
+15)To test the functionality of save button 
+16)To test the functionality of cancle button.
+17)To check the functionality of task tab and its dropdown oeartes or not.
+18)To check the functionality of HR tab and its dropdown.
+19)To check the Report tab functionality, are the reports customise or not.
+20)To Test the functionality of setting tab.
+21)To Test Human Resource Management tab is it oprates or not
+22) To test color of Human Resource Management tab.
+23)To test the functionality of logout button.
+24)To test Total Apply Leaves tab color.
+25)To test Total Sanction Leaves tab color.
+26)To test Total Leave Balance Till Dec 23 tab color.
+27)To test the sanction by tab if it accept manual typing or not.
+28)To test Leave Application Master background color is it change or not.
+29)To test mandetory filleds are fill and then application get submitted or not.
+30)To test this employee master application is user friendly or not.
+31)To test the application is running on any other browser or not.
+32)To test employee name tab only takes alphabates or not.
+33)To test company name tab only takes alphabates or not.
+34)To test sanction by tab is accepting data in ticket number and employee name format.
+35)To test To date tab accepting data for how much longer.
+36)To test after submitting application if it gives u pop up or email notification or not.
+37)To test total pending leaves color.
+38)To test setting tab access is for only  HR or not.
+39)To test reports tab access is for only HR(Admin) or not.
+40)To test HR tab is also enable for only HR employees or not.
+41)To test Leave application master last login date and time gives properly in decided format or not.
+42)To test Leave application save in any other place or not.
+43)To test all given information tabs spelling is correct or not.
+44)
